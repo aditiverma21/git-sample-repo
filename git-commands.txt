@@ -1,3 +1,5 @@
 git status - Give the status of the Git
 git init-makes the current directory as an Git local Repository
-git add filename- We have to add it to make it as a tracked file 
+git add filename- We have to add it to make it as a tracked file
+git commit -m "comments"- syntax to commit the file into local repository and in comments you can 
+                          give the changes you have made.It successfully commited the file into local repository.
