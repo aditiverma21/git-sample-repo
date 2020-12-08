@@ -7,3 +7,5 @@ git commit -m "comments"- syntax to commit the file into local repository and in
 git diff filename:
 git log filename:
 git clone "URL"-- In command line go to the folder and then perform this command line for clonning
+git push
+git pull
